@@ -14,6 +14,7 @@ body {
   );
   background-repeat: no-repeat;
   text-transform: capitalize;
+  position: relative;
 }
 
 .grid {
@@ -41,4 +42,10 @@ img {
   border: 0.8rem green groove;
   box-shadow: 5px 5px 5px grey;
   padding: 0;
+}
+
+.observer {
+  position: absolute;
+  bottom: 1px;
+  height: 40rem;
 }
