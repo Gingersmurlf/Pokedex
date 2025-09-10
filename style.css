@@ -49,3 +49,8 @@ img {
   bottom: 1px;
   height: 40rem;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
